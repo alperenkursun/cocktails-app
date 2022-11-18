@@ -1,0 +1,8 @@
+.col-3 {
+  cursor: pointer;
+  transition: all 0.6s;
+}
+
+.col-3:hover {
+  filter: blur(1px) brightness(0.5);
+}
